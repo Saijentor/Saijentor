@@ -10,6 +10,7 @@
   </a>
 </div>
 
+
 <div align="center">
   <img src="https://gpvc.arturio.dev/Saijentor"/>
 </div>
@@ -60,3 +61,5 @@
 ***
   
 ### 🖋️ Blog :
+  
+* 🟢 _I'll add something later._
