@@ -49,12 +49,12 @@
 
 ### 🔥 My Stats :
 <div align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=Saijentor&theme=dark&background=000000" width="500px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saijentor&layout=compact&theme=vision-friendly-dark" width="400px"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saijentor&layout=compact&theme=vision-friendly-dark" width="500px"/>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=Saijentor&theme=dark&background=000000" width="400px"/>
 </div>
-  
+
 ***
   
 ### 🖋️ Blog :
