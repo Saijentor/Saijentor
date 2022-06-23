@@ -31,15 +31,19 @@
 <div >
   <a href="https://github.com/Saijentor/Terminal">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="70px"/>
-  </a>
+  </a> 
+ 
   <a href="https://github.com/Saijentor/GIT">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="70px"/>
+    
   <a href="https://github.com/Saijentor/JavaScript">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="70px"/>
   </a>
+  
   <a href="https://github.com/Saijentor/Postman">
       <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="70px"/>
   </a>
+  
   <a href="https://github.com/Saijentor/SQL">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" width="70px"/>
   </a>
@@ -51,12 +55,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saijentor&layout=compact&theme=vision-friendly-dark" width="400px"/>
 </div>
+&nbsp
   
 <div align="center">
   <a href="https://www.codewars.com/users/Saijentor">
-    <img src="https://www.codewars.com/users/Saijentor/badges/large"/>
+    <img src="https://www.codewars.com/users/Saijentor/badges/large">
   </a>
 </div>
+&nbsp
   
 <div align="center">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=Saijentor&theme=dark&background=000000" width="400px"/>
