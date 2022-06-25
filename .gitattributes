@@ -1,0 +1,2 @@
+*.js linguist-language=HTML
+*.sql linguist-language=sql
