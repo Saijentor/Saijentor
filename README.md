@@ -10,11 +10,6 @@
   </a>
 </div>
 
-
-<div align="center">
-  <img src="https://gpvc.arturio.dev/Saijentor"/>
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fascinate&size=30&duration=7000&color=F70034&center=true&vCenter=true&width=600&lines=Welcome,+traveler,+to+my+github!" width="900px"/>
 </h1>
