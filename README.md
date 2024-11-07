@@ -58,10 +58,7 @@
   </a>
 </div>
 &nbsp
-  
-<div align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=Saijentor&theme=dark&background=000000" width="400px"/>
-</div>
+
 
 
 ***
